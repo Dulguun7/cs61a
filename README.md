@@ -2,6 +2,3 @@
 
 UC Berkeley, Fall 2018
 
-https://inst.eecs.berkeley.edu/~cs61a/fa18/
-
-http://composingprograms.com/
